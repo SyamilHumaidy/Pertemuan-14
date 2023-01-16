@@ -31,7 +31,7 @@ Contoh:
 ```py
 print(len(txt))
 ```
-Fungsi len() pada python di gunakan untuk menghitung karakter pada string.
+- Fungsi len() pada python di gunakan untuk menghitung karakter pada string.
 
 2. Jika ingin mengambil karakter terakhir, gunakan index `[-1]`.</br>
 Contoh:
@@ -72,7 +72,7 @@ print(txt.replace("H", "J"))
 
 ### B. Penjelasan Latihan 2
 
-Untuk memasukkan variable ke dalam string, tambahkan kurung kurung awal dan kurung akhir `{}` untuk menempatkan variable sebelumnya.</br>
+- Untuk memasukkan variable ke dalam string, tambahkan kurung kurung awal dan kurung akhir `{}` untuk menempatkan variable sebelumnya.</br>
 Contoh:
 ```py
     umur = 24
