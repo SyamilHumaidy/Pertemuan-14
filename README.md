@@ -24,7 +24,7 @@ Kelas   :   TI.22.B2</br>
 ![img4](image/2.png)
 
 
-### Penjelasan Latihan 1
+### A. Penjelasan Latihan 1
 
 1.  Untuk menghitung karakter pada string yaitu menggunakan Fungsi `len()`.</br>
 Contoh:
@@ -70,7 +70,7 @@ print(txt.replace("H", "J"))
 ```
 
 
-### Penjelasan Latihan 2
+### B. Penjelasan Latihan 2
 
 Untuk memasukkan variable ke dalam string, tambahkan kurung kurung awal dan kurung akhir `{}` untuk menempatkan variable sebelumnya.</br>
 Contoh:
@@ -80,7 +80,7 @@ Contoh:
     print(txt.format(umur))
 ```
 
-### Hasil Output
+### C. Hasil Output
 - Latihan 1</br>
 ![img5](image/3.png)
 
