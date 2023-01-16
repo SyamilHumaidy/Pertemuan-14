@@ -7,13 +7,10 @@ Kelas   :   TI.22.B2</br>
 
 ### Apa itu Python String?
 
-• String adalah jenis yang paling populer di Python.
-•Untuk membuatnya hanya dengan melampirkan
-karakter dalam tanda kutip.
-• Python memperlakukan tanda kutip tunggal sama
-dengan tanda kutip ganda.
-• Membuat string semudah memberi nilai pada sebuah
-variabel.
+- String adalah jenis yang paling populer di Python.
+- Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
+- Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
+- Membuat string semudah memberi nilai pada sebuah variabel.
 
 
 ### 1. Latihan 
@@ -29,44 +26,44 @@ variabel.
 
 ### Penjelasan Latihan 1
 
-1.  Untuk menghitung karakter pada string yaitu menggunakan Fungsi `len()`
+1.  Untuk menghitung karakter pada string yaitu menggunakan Fungsi `len()`.</br>
 Contoh:
 ```py
 print(len(txt))
 ```
 Fungsi len() pada python di gunakan untuk menghitung karakter pada string.
 
-2. Jika ingin mengambil karakter terakhir, gunakan index `[-1]`.
+2. Jika ingin mengambil karakter terakhir, gunakan index `[-1]`.</br>
 Contoh:
 ```py
 print(txt[-1])
 ```
 
-3. Next. Jika ingin menggambil karakter 2 s/d 4 menggunakan kurung siku yang di deklarasi nomor ARRAY
+3. Next. Jika ingin menggambil karakter 2 s/d 4 menggunakan kurung siku yang di deklarasi nomor ARRAY.</br>
 Contoh:
 ```py
 print(txt[2:5])
 ```
 
-4. Bila ingin menghilangkan spasi pada string yaitu menggunakan fungsi `replace()`
+4. Bila ingin menghilangkan spasi pada string yaitu menggunakan fungsi `replace()`.</br>
 Contoh:
 ```py
 print(txt.replace(" ", ""))
 ```
 
-5. Untuk mengubah huruf menjadi besar, gunakan fungsi `upper()`.
+5. Untuk mengubah huruf menjadi besar, gunakan fungsi `upper()`.</br>
 Contoh:
 ```py
 print(txt.upper())
 ```
 
-6. Sedangkan jika ingin mengubah huruf menjadi kecil, gunakan fungsi `lower()`.
+6. Sedangkan jika ingin mengubah huruf menjadi kecil, gunakan fungsi `lower()`.</br>
 Contoh:
 ```py
 print(txt.lower())
 ```
 
-7. Untuk mengganti karakter 'H' dengan karakter 'J', gunakan fungsi `replace()`.
+7. Untuk mengganti karakter 'H' dengan karakter 'J', gunakan fungsi `replace()`.</br>
 Contoh:
 ```py
 print(txt.replace("H", "J"))
@@ -75,7 +72,7 @@ print(txt.replace("H", "J"))
 
 ### Penjelasan Latihan 2
 
-Untuk memasukkan variable ke dalam string, tambahkan kurung kurung awal dan kurung akhir `{}` untuk menempatkan variable sebelumnya.
+Untuk memasukkan variable ke dalam string, tambahkan kurung kurung awal dan kurung akhir `{}` untuk menempatkan variable sebelumnya.</br>
 Contoh:
 ```py
     umur = 24
@@ -84,11 +81,11 @@ Contoh:
 ```
 
 ### Hasil Output
-- Latihan 1
+- Latihan 1</br>
 ![img5](image/3.png)
 
 
-- Latihan 2
+- Latihan 2</br>
 ![img6](image/4.png)
 
 
