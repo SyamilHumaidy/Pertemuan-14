@@ -1,5 +1,5 @@
-Nama    :   Ghufron Malik</br>
-NIM     :   312210559</br>
+Nama    :   Syamil Humaidy</br>
+NIM     :   312210472</br>
 Kelas   :   TI.22.B2</br>
 
 # Pertemuan 14 : Python String
